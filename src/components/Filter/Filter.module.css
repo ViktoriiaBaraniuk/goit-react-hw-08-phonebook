@@ -1,0 +1,16 @@
+.filter {
+  margin-left: 10px;
+  border-radius: 2px;
+  width: 120px;
+  padding: 2px;
+  outline: none;
+  border: 2px solid grey;
+}
+.filterForm {
+  text-align: center;
+  font-size: 14px;
+}
+.filter:focus {
+  border-color: blue;
+  color: blue;
+}

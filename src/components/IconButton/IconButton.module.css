@@ -1,0 +1,21 @@
+.IconButton {
+  margin: 0;
+  padding: 10px;
+  border: none;
+  border-radius: 50%;
+  color: #ffffff;
+  font: inherit;
+  background-color: #424db2;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  outline: none;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.IconButton:hover {
+  background: #f50057;
+}

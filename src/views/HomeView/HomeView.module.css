@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  position: absolute;
+  font-weight: 500;
+  font-size: 48px;
+  text-align: center;
+  color: aqua;
+  align-items: center;
+  cursor: pointer;
+}
+.img {
+  display: block;
+  width: 100%;
+}
+.title:hover {
+  color: aliceblue;
+}
